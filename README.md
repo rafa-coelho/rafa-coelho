@@ -2,9 +2,22 @@
  <div>
   <a href="https://github.com/rafa-coelho">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafa-coelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-coelho&layout=compact&langs_count=7&theme=dracula"/>
  </a>
 </div>
+
+
+Desde os 12 anos gosto de estudar e reproduzir sistemas e aplicações; 
+Hoje, já mexi com várias tecnologias usando **NodeJS** e **React**, mas quem paga minhas contas hoje é o **.NET**.
+
+<br />
+<br />
+
+💡 **Tech Stach:** .NET, NodeJS, React, Angular, Flutter, React Native, PHP <br />
+🌐 **Idiomas:** Português BR Nativo; Inglês Fluente. <br />
+💓 **Apaixonado por:** Séries, Jogos e Automatizar tudo que posso. <br />
+🖥️ **Projetos:** Faço alguns projetos pessoais ou Freelas... Só olhar meus [repositórios](https://github.com/rafa-coelho?tab=repositories) <br />
+✍️ **Conteúdo:** Decidi começar a escrever sobre meus projetos, aprendizados e experiências... olha lá o meu [blog](https://racoelho.com.br/posts) <br />
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
