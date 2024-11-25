@@ -9,8 +9,7 @@
 
 
 Desde os 12 anos gosto de estudar e reproduzir sistemas e aplicações; 
-Hoje, já mexi com várias tecnologias usando **NodeJS** e **React**, mas quem paga minhas contas hoje é o **.NET**.
-
+Hoje, trabalho como Fullstack **.NET**, **React** e **Angular**.
 
 <br />
 
