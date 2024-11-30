@@ -9,8 +9,7 @@
 
 
 Desde os 12 anos gosto de estudar e reproduzir sistemas e aplicações; 
-Hoje, já mexi com várias tecnologias usando **NodeJS** e **React**, mas quem paga minhas contas hoje é o **.NET**.
-
+Hoje, trabalho como Fullstack **.NET**, **React** e **Angular**.
 
 <br />
 
@@ -33,8 +32,8 @@ Hoje, já mexi com várias tecnologias usando **NodeJS** e **React**, mas quem p
   ##
  
 <div> 
-  <a href="https://instagram.com/rafael.coelho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/racoelhoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaelcoelho8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/racobosi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/racoelhodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
