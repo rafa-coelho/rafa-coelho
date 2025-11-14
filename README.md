@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 - Full Stack com **.NET + Node.js**  
 - Frontend com **React/Next.js** e **Angular**
 - Conhecimentos de **arquitetura distribuída, mensageria e alta performance**  
@@ -19,7 +19,7 @@
 
 ---
 
-## ⚙️ Tecnologias
+## Tecnologias
 ```yaml
 Backend:     C#, ASP.NET, EF, Node.js, NestJS
 Frontend:    React, Next.js, Angular, TypeScript  
@@ -30,7 +30,7 @@ Arquitetura: Event-Driven, Domain-Driven, Microservices, SQS, RabbitMQ
 
 ---
 
-## 📈 Atividade
+## Atividade
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rafa-coelho&theme=dark" />
@@ -38,7 +38,7 @@ Arquitetura: Event-Driven, Domain-Driven, Microservices, SQS, RabbitMQ
 
 ---
 
-## 🌍 Links
+## Links
 * Instagram/Tiktok: **@racoelhoo**
 * YouTube: **@racoelhoo**
 * Email: **contato@racoelho.com.br**
