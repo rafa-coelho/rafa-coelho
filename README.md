@@ -30,6 +30,7 @@ Hoje toco o **Protokol** e um punhado de produtos próprios, do app nativo de Wi
 | **[Analisa](https://useanalisa.com)** | Web analytics privacy-first e sem cookies: funis, Web Vitals e error tracking. Bun + Next.js, rumo ao open source (AGPL). |
 | **[Rotyn](https://github.com/rafa-coelho/rotyn-releases)** | Tarefas, rotinas, metas e Google Calendar num só lugar, local-first. |
 | **[toalha.dev](https://toalha.dev)** | Desafios diários de código em temporadas gamificadas, com execução real. |
+| **[divulga.dev](https://divulga.dev)** | Agenda de eventos tech do Brasil: meetups, conferências e hackathons, com curadoria. Next.js + SQLite. |
 
 Mais projetos (inclusive os privados, com arquitetura e decisões técnicas) em **[racoelho.com.br/projetos](https://racoelho.com.br/projetos)**.
 
