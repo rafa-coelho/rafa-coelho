@@ -22,7 +22,7 @@ Hoje toco o **Protokol** e um punhado de produtos próprios, do app nativo de Wi
 
 ## O que estou construindo
 
-| | |
+| Projeto | O que é |
 |---|---|
 | **[Protokol](https://racoelho.com.br/projetos)** | Protocolos operacionais e checklists com evidência: execução por QR code, SLA e PWA offline-first. .NET + Postgres. |
 | **[Doca](https://doca.racoelho.com.br)** | Dock para Windows com ambientes e 25+ widgets. C#, WinUI 3, Native AOT. Na Microsoft Store. |
